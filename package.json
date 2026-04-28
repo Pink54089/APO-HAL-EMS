@@ -1,0 +1,39 @@
+{
+  "name": "apo-hal-ems",
+  "private": false,
+  "version": "2.2.0",
+  "description": "Universal governance layer for critical infrastructure control systems. Deterministic validation of AI, automation, and human control decisions.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.14",
+    "@vitejs/plugin-react": "^5.0.4",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.546.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "recharts": "^3.8.1",
+    "tailwind-merge": "^3.5.0",
+    "vite": "^6.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "tailwindcss": "^4.1.14",
+    "typescript": "~5.8.2"
+  },
+  "keywords": [
+    "critical-infrastructure",
+    "scada",
+    "grid-control",
+    "deterministic",
+    "safety-critical",
+    "byzantine-resistant"
+  ],
+  "author": "Pink54089",
+  "license": "SEE LICENSE IN LICENSE"
+}

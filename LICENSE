@@ -1,0 +1,45 @@
+APO-HAL-EMS PROPRIETARY LICENSE
+
+Copyright (c) 2026 Pink54089. All rights reserved.
+
+TERMS AND CONDITIONS
+
+1. GRANT OF LICENSE
+   This software and associated documentation (the "Software") is made available
+   for EVALUATION AND EDUCATIONAL purposes only. You may view, study, and learn
+   from the source code.
+
+2. RESTRICTIONS
+   You may NOT:
+   - Use the Software for commercial purposes
+   - Distribute, sublicense, or sell copies of the Software
+   - Modify the Software for production use
+   - Deploy the Software in any production environment
+   - Remove or alter any copyright notices
+
+3. COMMERCIAL LICENSING
+   For commercial use, production deployment, or integration into commercial
+   products, you must obtain a separate commercial license. Contact:
+   
+   Email: oleymcclure@gmail.com
+   GitHub: https://github.com/Pink54089
+
+4. INTELLECTUAL PROPERTY
+   The Software includes proprietary algorithms, architectures, and methods
+   including but not limited to:
+   - Non-Digital Inertial Reference (NDIR) validation
+   - Group reward-Decoupled Policy Optimization (GDPO)
+   - Tiered constraint evaluation architecture
+   
+   Patents pending. All intellectual property rights are reserved.
+
+5. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+6. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR
+   OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+For licensing inquiries, contact oleymcclure@gmail.com

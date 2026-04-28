@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+/* SCADA HMI panel styles used by HalDashboard */
+.hal-panel {
+  @apply bg-neutral-900 border border-neutral-800 rounded;
+}
+
+.hal-header {
+  @apply text-[9px] font-bold uppercase tracking-widest text-neutral-500 px-4 py-2 border-b border-neutral-800 bg-neutral-950/50;
+}
+
+.data-grid-row {
+  @apply hover:bg-neutral-800/30 transition-colors;
+}
