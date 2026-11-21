@@ -17,5 +17,5 @@
     "noEmit": true,
     "strict": true
   },
-  "include": ["src", "shared", "server", "packages"]
+  "include": ["src", "shared"]
 }
